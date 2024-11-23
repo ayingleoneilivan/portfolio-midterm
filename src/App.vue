@@ -110,7 +110,7 @@ import { VueMarqueeSlider } from "./components/";
             </div>
         </div>
     </div>
-<div id="skills max-w-screen-xl" class="pt-10">
+<div id="skills" class="pt-10">
     <p class="font-bold text-gray-800 text-4xl md:text-5xl xl:text-6xl text-center leading-tight mb-10 xl:mb-20" v-motion-slide-visible-once-top>
                 Skills
     </p>
